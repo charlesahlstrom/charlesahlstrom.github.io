@@ -1,7 +1,9 @@
 ---
 title: About
 permalink: /about/
-image: "endor.jpg"
+header:
+  image: "/images/endor.jpg"
+  caption: "The forest moon of Endor, or Muir Woods"
 ---
 
 
