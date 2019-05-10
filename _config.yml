@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Charles Ahlstrom"
-  avatar           : "/images/header/cherry_blossom.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/cherry_blossom.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Starting up..."
   location         : "Chicago, IL"
   email            :
