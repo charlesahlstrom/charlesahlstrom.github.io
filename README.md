@@ -3,9 +3,9 @@ To Dos:
 
 
 - [x] create website
-- [ ] add tabs
+- [x] add tabs
 - [ ] first post
-- [ ] photos
+- [x] photos
 
 
 
