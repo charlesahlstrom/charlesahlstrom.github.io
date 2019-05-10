@@ -4,7 +4,7 @@ permalink: /blogposts/
 title: "Blog posts"
 author_profile: true
 header:
-  image: "endor.jpg"
+  image: "/images/endor.jpg"
 ---
 
 
