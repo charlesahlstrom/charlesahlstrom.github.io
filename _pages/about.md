@@ -9,7 +9,7 @@ header:
 
 I am Charles. 
 
-University of Chicago Department of Economics
+University of Chicago, Department of Economics
 
-University of Chicago Booth School of Business
+University of Chicago, Booth School of Business
 
