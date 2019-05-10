@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: /about/
-image: "endor.jpg"
+image: "/images/endor.jpg"
 ---
 
 
