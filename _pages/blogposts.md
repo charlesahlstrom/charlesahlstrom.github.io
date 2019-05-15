@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /blogposts/
+permalink: /blog-posts/
 title: "Blog posts"
 author_profile: true
 header:
