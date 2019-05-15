@@ -6,6 +6,7 @@ main:
   - title: "Blog Posts"
     url: /blogposts/
 
+# add on less informed things
   - title: "Ramblings"
     url: /ramblings/
     
