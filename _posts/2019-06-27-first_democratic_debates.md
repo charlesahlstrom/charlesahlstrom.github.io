@@ -10,9 +10,14 @@ Well, the circus is starting to take shape.  After XXX hours of debate across 20
 
 
 
-We may ask: who won?  Was one stage "easier" than the other?  Which candidates were not present at the debate?  And, what about her emails?!
+We may ask: Who won?  Was one stage "easier" than the other?  Which candidates were not present at the debate?  And, what about her emails?!  Well, maybe not the last one...
+
+One way to explore the public reaction is to see how viewers digested this information.  One proxy for this is to examine the candidates wikipedia page views following their respective debate.  Using Wikipedia's API, I pulled the page views for the 20+ candidates and seperated them by their debate date, plus the four (as of June 27, 2019) other candidates that did not take the stage.  
 
 
+To qualify, candidates had to register at least 1% support in three polls approved by the DNC, OR collect campaign donations from 65,000 people across 20 states.  
+
+[lopsided?](https://www.washingtonpost.com/politics/biden-sanders-to-share-the-stage-at-first-night-of-back-to-back-democratic-debates/2019/06/14/dc0b5d52-8e99-11e9-adf3-f70f78c156e8_story.html?utm_term=.1a2c2d2b5b02)
 
 <!--
 When I want to find out the background and policy positions of politicians, I usually start by checking their Wikipedia pages. I'd bet that most people do, too.
