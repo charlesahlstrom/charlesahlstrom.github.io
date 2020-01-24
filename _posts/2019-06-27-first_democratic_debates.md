@@ -6,43 +6,22 @@ tags: [Politics, Wikipedia]
 excerpt: "Presidential Candidates, Wikipedia, Visualization"
 ---
 
-Well, the circus is starting to take shape.  After XXX hours of debate across 20 candidates, 
+Outline:
+Debate night 1
+*Qualifications in Night 1**
+- Register at least 1% support in three polls approved by the DNC, 
+OR 
+- collect campaign donations from 65,000 people across 20 states.  
 
+Debate night 2
 
+Debate Night 3 (upcoming between top 10)
 
-We may ask: Who won?  Was one stage "easier" than the other?  Which candidates were not present at the debate?  And, what about her emails?!  Well, maybe not the last one...
-
-One way to explore the public reaction is to see how viewers digested this information.  One proxy for this is to examine the candidates wikipedia page views following their respective debate.  Using Wikipedia's API, I pulled the page views for the 20+ candidates and seperated them by their debate date, plus the four (as of June 27, 2019) other candidates that did not take the stage.  
+Aside: Joey Walsh + Mr. Argentina + Bill Weld
 
 
 To qualify, candidates had to register at least 1% support in three polls approved by the DNC, OR collect campaign donations from 65,000 people across 20 states.  
 
 [lopsided?](https://www.washingtonpost.com/politics/biden-sanders-to-share-the-stage-at-first-night-of-back-to-back-democratic-debates/2019/06/14/dc0b5d52-8e99-11e9-adf3-f70f78c156e8_story.html?utm_term=.1a2c2d2b5b02)
 
-<!--
-When I want to find out the background and policy positions of politicians, I usually start by checking their Wikipedia pages. I'd bet that most people do, too.
 
-I recently learned that the Wikimedia Foundation provides a ton of [data](https://meta.wikimedia.org/wiki/Research:Data) for research purposes, and it's totally free! One of the first things I stumbled upon was hourly page view data for every article on Wikipedia (over 800 million as of September 2013). The datasets are large, though, so using them was a bit cumbersome on my Macbook Air (mostly because I had to download them).
-
-I could connect to the [shared server](https://wikitech.wikimedia.org/wiki/Help:Tool_Labs#FAQ) and run queries, but, fortunately, Wikimedia provides an [API](https://www.mediawiki.org/wiki/API:Main_page) and a [Python wrapper](https://github.com/mediawiki-utilities/python-mwviews). The API only provides access to data going back through mid-2015, but it's still awesome for a free service.
-
-Since we just had a presidential election, I was curious how the election might have affected the candidates' popularity on Wikipedia. The results are pretty dramatic.
-
-![](/images/wikipedia_views/presidential_wiki_views.png?raw=true)
-
-
-
-All the candidates' pages were visited more on the day after the election, but Trump had a staggering 5.5 million more views the day after.
-
-
-The raw hourly page views datasets are updated every hour, which is pretty cool. I bet there are signals in the Wikipedia usage data that would be pretty useful for short-term forecasting a ton of different phenomena.
-
-***
-
-***
-
-For those interested, the Jupyter Notebook with Python code to get the data and the R code to make the visualization can be found in the [Github repository](https://github.com/beckernick/wikipedia_pageviews) for this post. 
-
-Additionally, all analyses and conclusions presented on this website reflect my views and do not indicate concurrence by the Board of Governors or the Federal Reserve System.
-
--->
