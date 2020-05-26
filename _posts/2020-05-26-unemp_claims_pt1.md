@@ -160,7 +160,7 @@ fig
 
 ```
 
-<iframe src="/assets/img/fig_test2.html"
+<iframe src="/assets/img/fig_test3.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
