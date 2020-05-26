@@ -160,8 +160,6 @@ fig
 
 ```
 
+{% include fig_test.html %}
 
-<iframe width='100%' height='300' src='https://charlesahlstrom.github.io/unemp_claims_pt1/' frameborder='0'>
-	fig
-</iframe>
 
