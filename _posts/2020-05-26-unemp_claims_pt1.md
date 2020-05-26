@@ -161,7 +161,7 @@ fig
 ```
 
 
-<iframe width='100%' height='300' src='https://rdrr.io/snippets/embed/' frameborder='0'>
+<iframe width='100%' height='300' src='https://charlesahlstrom.github.io/unemp_claims_pt1/' frameborder='0'>
 	fig
 </iframe>
 
