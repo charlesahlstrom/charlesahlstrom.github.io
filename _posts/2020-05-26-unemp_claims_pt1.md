@@ -160,11 +160,8 @@ fig
 
 ```
 
-```R
-htmltools::tags$iframe(
-  src = "fig_test.html", 
-  scrolling = "no", 
-  seamless = "seamless",
-  frameBorder = "0"
-)
-```
+
+<iframe width='100%' height='300' src='https://rdrr.io/snippets/embed/' frameborder='0'>
+	fig
+</iframe>
+
