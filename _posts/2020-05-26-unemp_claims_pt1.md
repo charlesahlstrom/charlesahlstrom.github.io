@@ -56,10 +56,10 @@ sub[, claims_cont_chg := claims_cont - shift(claims_cont,n=1, type= "lag", fill=
 may <- sub[week_end=="2020-05-02"]
 
 
-#plot_usmap(data = may, values = "claims_cont", color = "red") +
-#  scale_fill_continuous(
-#    low = "white", high = "red", name = "Intial Claims", label = scales::comma
-#  ) + theme(legend.position = "right")
+plot_usmap(data = may, values = "claims_cont", color = "red") +
+  scale_fill_continuous(
+    low = "white", high = "red", name = "Intial Claims", label = scales::comma
+  ) + theme(legend.position = "right")
 
 
 
