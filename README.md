@@ -1,14 +1,3 @@
-
-To Dos:
-
-
-- [x] create website
-- [x] add tabs
-- [ ] first post
-- [x] photos
-
-
-
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
