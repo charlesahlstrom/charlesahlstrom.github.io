@@ -6,8 +6,8 @@ main:
   - title: "Blog Posts"
     url: /blogposts/
 
-  - title: "Ramblings"
-    url: /ramblings/
+  #- title: "Ramblings"
+  #  url: /ramblings/
     
     
     
